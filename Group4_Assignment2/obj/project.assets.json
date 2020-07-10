@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\brookmanny\\.nuget\\packages\\": {}
+    "C:\\Users\\Avie\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brookmanny\\Source\\Repos\\bibhas05041984\\Group4_Assignment2\\Group4_Assignment2\\Group4_Assignment2.csproj",
-      "projectName": "Group4_Assignment2",
-      "projectPath": "C:\\Users\\brookmanny\\Source\\Repos\\bibhas05041984\\Group4_Assignment2\\Group4_Assignment2\\Group4_Assignment2.csproj",
-      "packagesPath": "C:\\Users\\brookmanny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brookmanny\\Source\\Repos\\bibhas05041984\\Group4_Assignment2\\Group4_Assignment2\\obj\\",
+      "projectUniqueName": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj",
+      "projectName": "Food and Culture",
+      "projectPath": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj",
+      "packagesPath": "C:\\Users\\Avie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\brookmanny\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Avie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

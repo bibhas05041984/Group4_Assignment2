@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Group4_Assignment2.csproj": {}
+    "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Group4_Assignment2.csproj": {
+    "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Group4_Assignment2.csproj",
-        "projectName": "Group4_Assignment2",
-        "projectPath": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Group4_Assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj",
+        "projectName": "Food and Culture",
+        "projectPath": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\Food and Culture.csproj",
         "packagesPath": "C:\\Users\\Avie\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Avie\\Source\\Repos\\Group4_Assignment22\\Group4_Assignment2\\obj\\",
         "projectStyle": "PackageReference",

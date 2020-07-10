@@ -1,7 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group4_Assignment2", "Group4_Assignment2\Group4_Assignment2.csproj", "{16AB26BC-2869-4FE1-A8D7-A4DF6D14F24D}"
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Food and Culture", "Group4_Assignment2\Food and Culture.csproj", "{16AB26BC-2869-4FE1-A8D7-A4DF6D14F24D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,5 +14,11 @@ Global
 		{16AB26BC-2869-4FE1-A8D7-A4DF6D14F24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16AB26BC-2869-4FE1-A8D7-A4DF6D14F24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16AB26BC-2869-4FE1-A8D7-A4DF6D14F24D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75157A53-ACE1-4452-8B79-B119CBB739D1}
 	EndGlobalSection
 EndGlobal

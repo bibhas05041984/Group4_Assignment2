@@ -1,0 +1,6 @@
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.AssemblyInfoInputs.cache
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.AssemblyInfo.cs
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.csproj.CoreCompileInputs.cache
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.RazorAssemblyInfo.cache
+C:\Users\Avie\Source\Repos\Group4_Assignment22\Group4_Assignment2\obj\Debug\netcoreapp3.1\Food and Culture.RazorAssemblyInfo.cs

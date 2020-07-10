@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Group4_Assignment2",
-    "\\Group4_Assignment2\\bin",
-    "\\Group4_Assignment2\\obj",
-    "\\Group4_Assignment2\\obj\\Debug",
-    "\\Group4_Assignment2\\obj\\Debug\\netcoreapp3.1",
-    "\\Group4_Assignment2\\obj\\Debug\\netcoreapp3.1\\Razor",
-    "\\Group4_Assignment2\\obj\\Debug\\netcoreapp3.1\\Razor\\Pages",
-    "\\Group4_Assignment2\\Pages",
-    "\\Group4_Assignment2\\Properties"
+    ""
   ],
-  "SelectedNode": "\\Group4_Assignment2\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
